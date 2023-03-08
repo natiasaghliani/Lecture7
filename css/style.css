@@ -1,5 +1,15 @@
+body {
+	height: 2000px;
+}
+
 header {
 	width: 1440px;
+	background-color: white;
+	position: fixed;
+	top: 0;
+	z-index: 100;
+	background-color: white;
+	box-shadow: 1px 1px 32px 1px #000000;
 }
 
 .container {
@@ -7,11 +17,9 @@ header {
 	display: flex;
 	justify-content: space-between;
 	margin-left: 130px;
-	margin-top: 40px;
+	padding-top: 40px;
 	align-items: center;
-	/*position: fixed;
-	top: 0;
-	z-index: 100;*/
+	
 }
 
 .logo {
@@ -28,6 +36,11 @@ li {
 	color: #3D37F1;
 	font-size: 20px;
 	font-weight: bold;
+}
+
+li:hover {
+	font-size: 23px;
+	text-shadow: 0 0 1px #FF0000, 0 0 1px #0000FF;
 }
 
 h1 {
@@ -50,6 +63,11 @@ h1 {
 
 .s-1 {
 	margin-top: 55px;
+}
+
+.text:hover {
+	0 0 1px #FF0000, 0 0 1px #0000FF;
+	text-shadow: 0 0 1px #000000, 0 0 1px #0000FF;
 }
 
 .computer {
