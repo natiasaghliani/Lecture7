@@ -9,9 +9,9 @@ header {
 	margin-left: 130px;
 	margin-top: 40px;
 	align-items: center;
-	position: fixed;
+	/*position: fixed;
 	top: 0;
-	z-index: 100;
+	z-index: 100;*/
 }
 
 .logo {
@@ -29,3 +29,90 @@ li {
 	font-size: 20px;
 	font-weight: bold;
 }
+
+h1 {
+	font-size: 78px;
+	color: #534D4D;
+	font-weight: bold;
+	width: 580px;
+}
+
+.container1 {
+	margin-top: 170px;
+	margin-left: 130px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.text {
+	margin-top: 40px;
+}
+
+.s-1 {
+	margin-top: 55px;
+}
+
+.computer {
+	wwidth: 700px;
+	height: 450px;
+}
+
+.div-img {
+	width: 800px;
+	height: 500px;
+}
+
+.wave {
+	background-color: #3D37F1;
+	width: 264px;
+	height: 77px;
+	display: flex;
+	align-items: center;
+	border-radius: 35px;
+	margin-top: 95px;
+
+}
+
+.p-wave {
+	color: #FFFFFF;
+	font-size: 23px;
+	margin-left: 10px;
+
+}
+
+.wave1 {
+	display: flex;
+	align-items: center;
+	margin-left: 50px;
+}
+
+.wave:hover {
+	box-shadow: 1px 9px 32px 5px #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
