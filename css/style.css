@@ -113,13 +113,13 @@ h2 {
 	color: #3D37F1;
 	font-weight: bold;
 	text-align: center;
-	padding-top: 70px;
 }
 
 .container2 {
 	width: 1170px;
 	margin: 0 auto;
 	margin-top: 150px;
+	padding-top: 70px;
 }
 
 .s-2 {
