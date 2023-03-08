@@ -108,6 +108,169 @@ h1 {
 	box-shadow: 1px 9px 32px 5px #000000;
 }
 
+h2 {
+	font-size: 20px;
+	color: #3D37F1;
+	font-weight: bold;
+	text-align: center;
+}
+
+.container2 {
+	width: 1170px;
+	margin: 0 auto;
+	margin-top: 150px;
+}
+
+.s-2 {
+	background-color: #F8F8F8;
+}
+
+h3 {
+	font-size: 40px;
+	font-weight: 400;
+	text-align: center;
+	margin-top: 30px;
+}
+
+h4 {
+	font-size: 18px;
+	font-weight: 400;
+	width: 713px;
+	height: 90px;
+	margin: 0 auto;
+	margin-top: 20px;
+	text-align: center;
+}
+
+/*cardebis nawili*/
+
+.card {
+	width: 1170px;
+	margin: 0 auto;
+	margin-top: 67px;
+	display: flex;
+	justify-content: space-between;	
+
+}
+
+.yellow {
+	width: 370px;
+	height: 451px;
+	background-color: #FBBA77;
+	background-image: linear-gradient(#FBBA77, #DFA871);
+	position: relative;
+}
+
+.yellow-card {
+	position: absolute;
+	top: 88px;
+	left: 134px;
+	width: 100px;
+	height: 106px;
+}
+
+h5 {
+	position: absolute;
+	top: 252px;
+	left: 128px;
+	font-size: 22px;
+	font-weight: 600;
+	color: #FFFFFF;
+}
+
+h6 {
+	position: absolute;
+	top: 285px;
+	left: 21px;
+	color: #FFFFFF;
+	font-size: 16px;
+	font-weight: 400;
+	width: 329px;
+	text-align: center;
+}
+
+.touch {
+	position: absolute;
+	top: 358px;
+	left: 119px;
+	width: 131px;
+	height: 45px;
+	border-radius: 23px;
+	border-color: #ffffff;
+	border-width: 2px;
+	border-style: solid;
+}
+
+.p-touch {
+	font-size: 15px;
+	font-weight: 400;
+	text-align: center;
+	color: #ffffff;
+	margin-top: 16px;
+}
+
+.p-touch:hover {
+	color: #4B647E;
+}
+
+.touch:hover {
+	background-color: #ffffff;
+}
+
+.blue {
+	width: 370px;
+	height: 451px;
+	background-color: #41EAE3;
+	background-image: linear-gradient(#41EAE3, #2293B7);
+	position: relative;
+}
+
+.purple {
+	width: 370px;
+	height: 451px;
+	background-color: #69529F;
+	background-image: linear-gradient(#69529F, #463864);
+	position: relative;
+}
+
+.blue2 {
+	width: 370px;
+	height: 451px;
+	background-color: ##4386D2;
+	background-image: linear-gradient(#4386D2, #0962C5);
+	position: relative;
+}
+
+.purple2 {
+	width: 370px;
+	height: 451px;
+	background-color: #A5A2F6;
+	background-image: linear-gradient(#A5A2F6, #564FD6);
+	position: relative;
+}
+
+.orange {
+	width: 370px;
+	height: 451px;
+	background-color: #FF8088;
+	background-image: linear-gradient(#FF8088, #984141);
+	position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
