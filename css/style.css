@@ -1,24 +1,23 @@
-body {
-	height: 2000px;
-}
-
-header {
+.header1 {
 	width: 1440px;
-	background-color: white;
-	position: fixed;
-	top: 0;
-	z-index: 100;
-	background-color: white;
-	box-shadow: 1px 1px 32px 1px #000000;
+	height: 76px;
+	margin: 0 auto;
 }
 
 .container {
-	width: 1045px;
+	width: 1440px;
+	padding: 40px 20px 10px 20px;
+
 	display: flex;
+	top: 0;
 	justify-content: space-between;
-	margin-left: 130px;
-	padding-top: 40px;
 	align-items: center;
+
+	position: fixed;
+	z-index: 100;
+
+	background-color: white;
+	box-shadow: 1px 1px 32px 1px #000000;
 	
 }
 
@@ -50,9 +49,16 @@ h1 {
 	width: 580px;
 }
 
+/*section 1*/
+
+.s-11 {
+	margin: 0 auto;
+}
+
 .container1 {
+	width: 1440px;
+	margin: 0 auto;
 	margin-top: 170px;
-	margin-left: 130px;
 	display: flex;
 	justify-content: space-between;
 }
@@ -107,6 +113,9 @@ h1 {
 .wave:hover {
 	box-shadow: 1px 9px 32px 5px #000000;
 }
+
+/*section 2*/
+
 
 h2 {
 	font-size: 20px;
